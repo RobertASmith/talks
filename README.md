@@ -1,6 +1,8 @@
-# talks
+# Public Talks
 
-Repository containing PDFs for invited public talks.
+Repository containing content for publicly available talks.
+
+For private talks listed but with no link, please contact rasmith3@sheffield.ac.uk
 
 | Title                                                                          | Institution                                          | Date       | Link                                                                                                                 |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
