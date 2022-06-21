@@ -6,6 +6,7 @@ For private talks listed but with no link, please contact rasmith3@sheffield.ac.
 
 | Title                                                                          | Institution                                          | Date       | Link                                                                                                                 |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
+| parkrun analytics                            | University College London                          | 21/06/2022 | [link](https://github.com/RobertASmith/talks/blob/master/parkrunUCLstudents.pdf) 
 | Living HTA: Automating HTA with R                                          | R-HTA Conference                                | 21/05/2022 | [link](https://github.com/RobertASmith/talks/blob/master/Living%20HTA%20May22.pdf) 
 | Living HTA: Automating HTA with plumber                                          | ScHARR Guest Lecture                                | 18/05/2022 | [link](https://github.com/RobertASmith/talks/blob/master/Living%20HTA%20May22.pdf)     |
 | Data Science for Health Economic Evaluation                                         | Pharmaceutical company                        | 13/05/2022 |      |
