@@ -27,3 +27,5 @@ For private talks listed but with no link, please contact rasmith3@sheffield.ac.
 | Making Health Economic Evaluation Models Shiny (workshop)                      | University of Sheffield                              | 28/02/2020 | [link](https://github.com/RobertASmith/talks/blob/master/RShiny%20for%20Health%20Economics%20ScHARR%20Feb20.pdf)     |
 | R for decision science                                                         | Sheffield                                            | 04/02/2020 | [link](https://github.com/RobertASmith/talks/blob/master/Decision%20Science%20RSheffield.pdf)                        |
 | Use of R and Shiny for HTA applications (workshop).                            | Market Access Consultancy                            | 24/01/2020 |                                                                                                                      |
+Two figures have also been used extensively throughout the presentations:
+
