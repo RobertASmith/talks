@@ -2,7 +2,7 @@
 
 Repository containing content for publicly available talks.
 
-For private talks listed but with no link, please contact rasmith3@sheffield.ac.uk
+For private talks listed but with no link, please contact rasmith3@sheffield.ac.uk or rsmith@darkpeakanalytics.com.
 
 | Title                                                                          | Institution                                          | Date       | Link                                                                                                                 |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
