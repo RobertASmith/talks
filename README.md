@@ -6,6 +6,7 @@ For private talks listed but with no link, please contact rasmith3@sheffield.ac.
 
 | Title                                                                          | Institution                                          | Date       | Link                                                                                                                 |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
+| Advances at the intersection of health economics & data science | R-LMIC Workshop University College London | 20/01/2023 | [link](https://github.com/RobertASmith/talks/blob/master/RLMIC_230120.pdf)
 | Version Control in RStudio | University of Exeter PENTAG | 03/01/2023 | [link](https://github.com/RobertASmith/talks/blob/master/PENTAG_GitHubHE_230103.pdf)
 | Automating Health Economic Evaluation with plumber and GitHub Actions                            | EARL - Tower Hotel London                          | 07/09/2022 | [link](https://github.com/RobertASmith/talks/blob/master/Automating%20HTA%20with%20R%20-%20EARL_London_Aug22.pdf) 
 | parkrun analytics                            | University College London                          | 21/06/2022 | [link](https://github.com/RobertASmith/talks/blob/master/parkrunUCLstudents.pdf) 
