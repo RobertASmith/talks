@@ -32,7 +32,7 @@ For private talks listed but with no link, please contact rasmith3@sheffield.ac.
 
 ## Figures
 
-Several figures have also been used extensively throughout the presentations:
+Several figures have also been used extensively throughout the presentations. Feel free to use with the citation provided:
 
 | Name                                      | Citation             |
 | ----------------------------------------- | -------------------- |
