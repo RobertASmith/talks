@@ -1,8 +1,8 @@
 # Public Talks
 
-Repository containing content for publicly available talks.
+Repository containing content for publicly available talks undertaken since January 2020.
 
-For private talks listed but with no link, please contact rasmith3@sheffield.ac.uk or rsmith@darkpeakanalytics.com.
+For talks listed but with no link, please contact rasmith3@sheffield.ac.uk or rsmith@darkpeakanalytics.com.
 
 | Title                                                                          | Institution                                          | Date       | Link                                                                                                                 |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
