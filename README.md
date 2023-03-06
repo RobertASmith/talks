@@ -27,7 +27,6 @@ For talks listed but with no link, please contact rasmith3@sheffield.ac.uk or rs
 | Use of R for Health Research                                                   | R-HTA University College London                      | 26/06/2020 | [link](https://r-hta.org/tutorial/markov_models_shiny/)                                                              |
 | Making Health Economic Evaluation Models Shiny (workshop)                      | University of Sheffield                              | 28/02/2020 | [link](https://github.com/RobertASmith/talks/blob/master/RShiny%20for%20Health%20Economics%20ScHARR%20Feb20.pdf)     |
 | R for decision science                                                         | Sheffield                                            | 04/02/2020 | [link](https://github.com/RobertASmith/talks/blob/master/Decision%20Science%20RSheffield.pdf)                        |
-| Use of R and Shiny for HTA applications (workshop).                            | Market Access Consultancy                            | 24/01/2020 |     |
 
 ## Figures
 
