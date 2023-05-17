@@ -6,7 +6,7 @@ For talks listed but with no link, please contact rasmith3@sheffield.ac.uk or rs
 
 | Title                                                                          | Institution                                          | Date       | Link                                                                                                                 |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
-| Living Health Economic Evaluation (with R) | NICE Technical Forum | 16/05/2023 | [link]()
+| Living Health Economic Evaluation (with R) | NICE Technical Forum | 16/05/2023 | [link](https://github.com/RobertASmith/talks/blob/master/NICE_Living_HTA_R.pdf)
 | Advances at the intersection of health economics & data science | R-LMIC Workshop University College London | 20/01/2023 | [link](https://github.com/RobertASmith/talks/blob/master/RLMIC_230120.pdf)
 | Version Control in RStudio | University of Exeter PENTAG | 03/01/2023 | [link](https://github.com/RobertASmith/talks/blob/master/PENTAG_GitHubHE_230103.pdf)
 | Automating Health Economic Evaluation with plumber and GitHub Actions                            | EARL - Tower Hotel London                          | 07/09/2022 | [slides](https://github.com/RobertASmith/talks/blob/master/Automating%20HTA%20with%20R%20-%20EARL_London_Aug22.pdf) [video](https://videos.ctfassets.net/k26sw1bgepr3/XJB3NcW4QvS0SJWvmYunx/8b1d2e066dd5d64fa39a86477764ba18/EARL2022-Stream_1_Robert_Smith.mp4)
