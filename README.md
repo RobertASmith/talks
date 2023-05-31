@@ -6,7 +6,7 @@ For talks listed but with no link, please contact rasmith3@sheffield.ac.uk or rs
 
 | Title                                                                          | Institution                                          | Date       | Link                                                                                                                 |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
-| Advances in Health Economics & Data Science | Lumanity | 31/05/2023 | [link]([https://github.com/RobertASmith/talks/blob/master/NICE_Living_HTA_R.pdf](https://github.com/RobertASmith/talks/blob/master/Lumanity_230531.pdf))
+| Advances in Health Economics & Data Science | Lumanity | 31/05/2023 | [link](https://github.com/RobertASmith/talks/blob/master/Lumanity_230531.pdf)
 | Living Health Economic Evaluation (with R) | NICE Technical Forum | 16/05/2023 | [link](https://github.com/RobertASmith/talks/blob/master/NICE_Living_HTA_R.pdf)
 | Advances at the intersection of health economics & data science | R-LMIC Workshop University College London | 20/01/2023 | [link](https://github.com/RobertASmith/talks/blob/master/RLMIC_230120.pdf)
 | Version Control in RStudio | University of Exeter PENTAG | 03/01/2023 | [link](https://github.com/RobertASmith/talks/blob/master/PENTAG_GitHubHE_230103.pdf)
