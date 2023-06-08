@@ -6,6 +6,7 @@ For talks listed but with no link, please contact rasmith3@sheffield.ac.uk or rs
 
 | Title                                                                          | Institution                                          | Date       | Link                                                                                                                 |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
+| R Packages for health economic evaluation: A tutorial | R-HTA | 09/06/2023 | [link](https://github.com/RobertASmith/talks/blob/master/R%20Packages%20for%20health%20economic%20evaluation_%20A%20tutorial.pdf)
 | Advances in Health Economics & Data Science | Lumanity | 31/05/2023 | [link](https://github.com/RobertASmith/talks/blob/master/Lumanity_230531.pdf)
 | Living Health Economic Evaluation (with R) | NICE Technical Forum | 16/05/2023 | [link](https://github.com/RobertASmith/talks/blob/master/NICE_Living_HTA_R.pdf)
 | Advances at the intersection of health economics & data science | R-LMIC Workshop University College London | 20/01/2023 | [link](https://github.com/RobertASmith/talks/blob/master/RLMIC_230120.pdf)
