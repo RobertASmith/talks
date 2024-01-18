@@ -6,6 +6,7 @@ For talks listed but with no link, please contact rasmith3@sheffield.ac.uk or rs
 
 | Title                                                                          | Institution                                          | Date       | Link                                                                                                                 |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
+| Automating health economic evaluation with R | Sheffield R Users, Sheffield, UK | 18/01/2024 | [link](https://github.com/RobertASmith/talks/blob/master/Automating%20HTA%20with%20R.pdf) 
 | Introduction to R | School of Medicine and Population Health, University of Sheffield | 29/09/2023 | [website](https://darkpeakanalytics.com/)
 | R shiny for health economic evaluation | PenTAG | 27/09/2023 | [website](https://darkpeakanalytics.com/)
 | GitHub for Academic Collaboration | OPENfest University of Sheffield | 04/09/2023 | [link](https://github.com/RobertASmith/talks/blob/master/GitHub%20for%20academic%20collaboration%20UoS.pdf)
