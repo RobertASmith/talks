@@ -6,16 +6,18 @@ library(dplyr)
 
 # 1. get all citations from Rob & Paul
 raw_dat <- rbind(
-  scholar::get_publications(id = "Wpj2R6MAAAAJ"),  # Rob
+  scholar::get_publications(id = "nEJ0x6IAAAAJ"),  # Rob
   scholar::get_publications(id = "Kjmv4E4AAAAJ"),  # Paul
   scholar::get_publications(id = "z6MCSFUAAAAJ")   # Wael
   )
 
 # only keep distinct publications with a journal and a year:
-final_list <- raw_dat %>%
+final_list <- raw_dat %>% 
+  arrange(-cites) %>%
+  distinct(title, .keep_all = T) %>%
   select(title, author, journal, year, cites) %>%
   filter(journal != "" & !is.na(year)) %>%
-  distinct(.keep_all = TRUE) %>%
+  #distinct(title, author, year, cites, .keep_all = FALSE) %>%
   arrange(-cites, -year) %>%
   filter(year >= 2019 & cites > 1)
 
