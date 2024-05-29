@@ -2,10 +2,11 @@
 
 Repository containing content for publicly available talks undertaken since January 2020.
 
-For talks listed but with no link, please contact rasmith3@sheffield.ac.uk or rsmith@darkpeakanalytics.com.
+For talks listed but with no link, please contact rsmith@darkpeakanalytics.com.
 
 | Title                                                                          | Institution                                          | Date       | Link                                                                                                                 |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
+| assertHE: HTA R model review  | DSMC Meeting, Erasmus MC | 29/05/2024 | [link](https://github.com/RobertASmith/talks/blob/master/assertHE_ErasmusMC_290524.pdf)
 | Automating health economic evaluation with R | Sheffield R Users, Sheffield, UK | 18/01/2024 | [link](https://github.com/RobertASmith/talks/blob/master/Automating%20HTA%20with%20R.pdf) 
 | Introduction to R | School of Medicine and Population Health, University of Sheffield | 29/09/2023 | [website](https://darkpeakanalytics.com/)
 | R shiny for health economic evaluation | PenTAG | 27/09/2023 | [website](https://darkpeakanalytics.com/)
