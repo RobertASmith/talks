@@ -16,7 +16,7 @@ For talks listed but with no link, please contact rsmith@darkpeakanalytics.com.
 | GitHub for Academic Collaboration | OPENfest University of Sheffield | 04/09/2023 | [link](https://github.com/RobertASmith/talks/blob/master/GitHub%20for%20academic%20collaboration%20UoS.pdf)
 | A Random Walk Down West Street: Projects & Placements | ScHARR Summer School | 14/08/2023 | [link](https://github.com/RobertASmith/talks/blob/master/ScHARR%20Summer%20School%20Talk.pdf)
 | Methods for data science to make health economic models more usable: user and application programming interfaces | Wellcome Trust PhD programme | 21/06/2023 | [link](https://github.com/RobertASmith/talks/blob/master/Wellcome%20Student%20Talk.pdf)
-| R Packages for health economic evaluation: A tutorial | R-HTA | 09/06/2023 | [link](https://github.com/RobertASmith/talks/blob/master/R%20Packages%20for%20health%20economic%20evaluation_%20A%20tutorial.pdf)
+| R Packages for health economic evaluation: A tutorial | R-HTA | 09/06/2023 | [slides](https://github.com/RobertASmith/talks/blob/master/R%20Packages%20for%20health%20economic%20evaluation_%20A%20tutorial.pdf) [video](https://www.youtube.com/watch?v=YzRAuRXJ04k)
 | Advances in Health Economics & Data Science | Lumanity | 31/05/2023 | [link](https://github.com/RobertASmith/talks/blob/master/Lumanity_230531.pdf)
 | Living Health Economic Evaluation (with R) | NICE Technical Forum | 16/05/2023 | [link](https://github.com/RobertASmith/talks/blob/master/NICE_Living_HTA_R.pdf)
 | Advances at the intersection of health economics & data science | R-LMIC Workshop University College London | 20/01/2023 | [link](https://github.com/RobertASmith/talks/blob/master/RLMIC_230120.pdf)
