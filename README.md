@@ -8,7 +8,7 @@ For talks listed but with no link, please contact rsmith@darkpeakanalytics.com.
 | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
 | Improving the transparency and usability of health economic models  | HERC, University of Oxford | 04/07/2024 | [slides](https://github.com/RobertASmith/talks/blob/master/Oxford%20Uni%2004-07-2024.pdf)
 | Generative AI for HEOR: Potential, Challenges, and Future Directions | R-HTA 24 Online | 02/07/2024 | [slides](https://github.com/RobertASmith/talks/blob/master/Generative%20AI%20for%20HEOR_%20Potential%2C%20Challenges%2C%20and%20Future%20Directions.pdf)
-| assertHE: R model reviewer  | R-HTA 24 Sheffield | 28/06/2024 | [slides](https://github.com/RobertASmith/talks/blob/master/RHTA24-assertHE%20(1).pdf)
+| assertHE: R model reviewer  | R-HTA 24 Sheffield | 28/06/2024 | [slides](https://github.com/RobertASmith/talks/blob/master/RHTA24-assertHE%20(1).pdf) ; [video](https://www.youtube.com/watch?v=wr8-w-6QGno)
 | assertHE: HTA R model review  | DSMC Meeting, Erasmus MC | 29/05/2024 | [slides](https://github.com/RobertASmith/talks/blob/master/assertHE_ErasmusMC_290524.pdf)
 | Automating health economic evaluation with R | Sheffield R Users, Sheffield, UK | 18/01/2024 | [slides](https://github.com/RobertASmith/talks/blob/master/Automating%20HTA%20with%20R.pdf) 
 | Introduction to R | School of Medicine and Population Health, University of Sheffield | 29/09/2023 | [website](https://darkpeakanalytics.com/)
