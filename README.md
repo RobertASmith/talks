@@ -11,18 +11,18 @@ For talks listed but with no link, please contact rsmith@darkpeakanalytics.com.
 | assertHE: an R package to improve quality assurance of models | EuHEA 2026, Rotterdam | 17/07/2026 | [slides](https://github.com/RobertASmith/talks/blob/master/assertHE_EuHEA_2026.pdf)
 | R Packages as the New Standard for Health Economic Evaluation | EuHEA 2026, Rotterdam | 16/07/2026 | [slides](https://github.com/RobertASmith/talks/blob/master/R_Packages_EuHEA_2026.pdf)
 | An Introduction to Open-Source Modelling and Version Control for Decision Modelling (short course with Eline Krijkamp, Wael Mohammed, Ron Handels & Xavier Pouwels) | SMDM 2026, Oslo | 28/06/2026 |
-| Building & Scaling Custom HEOR Modelling Software within Industry (with Yevgeniy Samyshkin, GSK) | R-HTA 2026 Online | 24/06/2026 | 
+| Building & Scaling Custom HEOR Modelling Software within Industry (with Yevgeniy Samyshkin, GSK) | R-HTA 2026 Online | 24/06/2026 | [slides](https://github.com/RobertASmith/talks/blob/master/RHTA_2026_Building_Scaling_HEOR_Software_GSK.pdf) 
 | Where R we, and where R we going? Results of the R-HTA Expert Elicitation Survey | R-HTA 2026 Online | 23/06/2026 | [slides](https://github.com/RobertASmith/talks/blob/master/RHTA_2026_Expert_Elicitation_Survey_Results.pdf)
-| Structured Expert Judgement (with Lucy Watson) | Delft University of Technology webinar | 09/06/2026 | 
+| Improving the evidence-base for Health Economic Models with Structured Expert Elicitation (with Lucy Watson) | Delft University of Technology webinar | 09/06/2026 | [slides](https://github.com/RobertASmith/talks/blob/master/Delft_2026_Structured_Expert_Elicitation.pdf) 
 | Making Health Economic Models Shiny: Our experience helping companies transition from Excel to R & Shiny | R Consortium | 18/11/2025 | 
 | Transparent Health Economic Models with R & Shiny | SMDM Open Source Models SIG | 23/10/2025 |
-| Optimising access to HCP administered treatments (guest talk with Oliver Dolin) | ScHARR, University of Sheffield | 22/10/2025 | 
+| Geospatial care closer to home: modelling of NHS infrastructure (guest talk with Oliver Dolin) | ScHARR, University of Sheffield | 22/10/2025 | [slides](https://github.com/RobertASmith/talks/blob/master/ScHARR_2025_Geospatial_Care_Closer_to_Home.pdf) 
 | assertHE: an R package to improve quality assurance of models | iHEA 2025, Bali | 07/2025 |
 | Automating Health Economic Evaluation with R (+ genAI) | R-HTA 2025, Queen's University Belfast | 06/06/2025 | [slides](https://github.com/RobertASmith/talks/blob/master/RHTA_2025_Automating_HEE_with_R_genAI.pdf); [recordings](https://github.com/r-hta/r-hta-workshop-2025)
 | Flip (to) the Script: Is It Time to Rethink Health Economic Modeling for HTAs? (issue panel) | ISPOR 2025, Montreal | 05/2025 | [slides](https://github.com/RobertASmith/talks/blob/master/ISPOR_2025_Flip_the_Script.pdf)
 | R for the Rest of Us Podcast  | R 4 the Rest of Us | 14/01/2025 | [slides](https://github.com/RobertASmith/talks/blob/master/ParkrunResearchOverview.pdf)
 | Modelling the impact of new parkrun events: efficiency vs equity  | University of Chicago | 19/11/2024 | [slides](https://github.com/RobertASmith/talks/blob/master/UIC%20Parkrun%20Talk.pdf); [Video](https://www.courses.darkpeakanalytics.com/courses/public-talks)
-| Generative AI for Health Economic Evaluation  | iHEA | 14/10/2024 | [slides](https://github.com/RobertASmith/talks/blob/master/Generative%20AI%20for%20HEOR_%20Potential%2C%20Challenges%2C%20and%20Future%20Directions.pdf); [video](https://www.youtube.com/watch?v=WlwRfhHTEXY) 
+| Generative AI for Health Economic Evaluation  | iHEA | 14/10/2024 | [slides](https://github.com/RobertASmith/talks/blob/master/IHEA%20Oct24.pdf); [video](https://www.youtube.com/watch?v=WlwRfhHTEXY) 
 | Improving the transparency and usability of health economic models  | HERC, University of Oxford | 04/07/2024 | [slides](https://github.com/RobertASmith/talks/blob/master/Oxford%20Uni%2004-07-2024.pdf); [video](https://youtu.be/4kLPjIZ4xIs) 
 | Generative AI for HEOR: Potential, Challenges, and Future Directions | R-HTA 24 Online | 02/07/2024 | [slides](https://github.com/RobertASmith/talks/blob/master/Generative%20AI%20for%20HEOR_%20Potential%2C%20Challenges%2C%20and%20Future%20Directions.pdf); [video](https://youtu.be/qe6h8j6XiRo)
 | assertHE: R model reviewer  | R-HTA 24 Sheffield | 28/06/2024 | [slides](https://github.com/RobertASmith/talks/blob/master/RHTA24-assertHE%20(1).pdf) ; [video](https://www.youtube.com/watch?v=wr8-w-6QGno)
