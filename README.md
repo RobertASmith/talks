@@ -6,20 +6,20 @@ For talks listed but with no link, please contact rsmith@darkpeakanalytics.com.
 
 | Title                                                                          | Institution                                          | Date       | Link                                                                                                                 |
 | ------------------------------------------------------------------------------ | ---------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
-| GitHub & open-source modelling | SMDM Open Source Modeling SIG webinar | 24/11/2026 | 
-| Improving the evidence-base for Health Economic Models with Structured Expert Elicitation (with Lucy Watson) | Young-NVTAG webinar | 16/09/2026 | [slides](https://docs.google.com/presentation/d/1l3w_d_6YJ_MmQ96LVMZCYEw1sdlmoq_KsNY1LYGUS6A)
-| assertHE: an R package to improve quality assurance of models | EuHEA 2026, Rotterdam | 17/07/2026 | [slides](https://docs.google.com/presentation/d/1PjFUnc8W7gwy_6p2UaCj6MyAtU5jHGuRA5CjKT7wbVc)
-| R Packages as the New Standard for Health Economic Evaluation | EuHEA 2026, Rotterdam | 16/07/2026 | [slides](https://docs.google.com/presentation/d/13x2vHraaNkm8x17p5Vv1vAGJQjjiHIQPiyNMdk0tbZE)
-| An Introduction to Open-Source Modelling and Version Control for Decision Modelling (short course with Eline Krijkamp, Wael Mohammed, Ron Handels & Xavier Pouwels) | SMDM 2026, Oslo | 28/06/2026 | [slides](https://docs.google.com/presentation/d/1EssjxzrApunR7b20OACaFE_BuP7eK73ehYKxQda3an8)
+| Git-ing Together: How to use GitHub to collaborate internally and externally | SMDM Open-Source Modeling SIG webinar | 24/11/2026 | [slides](https://github.com/RobertASmith/talks/blob/master/SMDM_SIG_2026_Gitting_Together.pdf)
+| Improving the evidence-base for Health Economic Models with Structured Expert Elicitation (with Lucy Watson) | Young-NVTAG webinar | 16/09/2026 | [slides](https://github.com/RobertASmith/talks/blob/master/Young_NVTAG_2026_Structured_Expert_Elicitation.pdf)
+| assertHE: an R package to improve quality assurance of models | EuHEA 2026, Rotterdam | 17/07/2026 | [slides](https://github.com/RobertASmith/talks/blob/master/assertHE_EuHEA_2026.pdf)
+| R Packages as the New Standard for Health Economic Evaluation | EuHEA 2026, Rotterdam | 16/07/2026 | [slides](https://github.com/RobertASmith/talks/blob/master/R_Packages_EuHEA_2026.pdf)
+| An Introduction to Open-Source Modelling and Version Control for Decision Modelling (short course with Eline Krijkamp, Wael Mohammed, Ron Handels & Xavier Pouwels) | SMDM 2026, Oslo | 28/06/2026 |
 | Building & Scaling Custom HEOR Modelling Software within Industry (with Yevgeniy Samyshkin, GSK) | R-HTA 2026 Online | 24/06/2026 | 
-| Where R we, and where R we going? Results of the R-HTA Expert Elicitation Survey | R-HTA 2026 Online | 23/06/2026 | [slides](https://docs.google.com/presentation/d/1TTCeL4Zv_ti09sDEX36g-Shs7qvhn-PzPp76BiDMuNE)
+| Where R we, and where R we going? Results of the R-HTA Expert Elicitation Survey | R-HTA 2026 Online | 23/06/2026 | [slides](https://github.com/RobertASmith/talks/blob/master/RHTA_2026_Expert_Elicitation_Survey_Results.pdf)
 | Structured Expert Judgement (with Lucy Watson) | Delft University of Technology webinar | 09/06/2026 | 
 | Making Health Economic Models Shiny: Our experience helping companies transition from Excel to R & Shiny | R Consortium | 18/11/2025 | 
-| Transparent Health Economic Models with R & Shiny | SMDM Open Source Models SIG | 23/10/2025 | [slides](https://docs.google.com/presentation/d/1SiVp4UZcMltKRjJspi_UZMNwXe7G2wkV0T_YLxBTI3c)
+| Transparent Health Economic Models with R & Shiny | SMDM Open Source Models SIG | 23/10/2025 |
 | Optimising access to HCP administered treatments (guest talk with Oliver Dolin) | ScHARR, University of Sheffield | 22/10/2025 | 
-| assertHE: an R package to improve quality assurance of models | iHEA 2025, Bali | 07/2025 | [slides](https://docs.google.com/presentation/d/1HgKmW1O1uu3H37lE15fdIqWQzgVS7xFYD-USg2wm6Ag)
-| Automating Health Economic Evaluation with R (+ genAI) | R-HTA 2025, Queen's University Belfast | 06/06/2025 | [slides](https://docs.google.com/presentation/d/1SqgqGpiGybbZgOd_u6ClEzl78EW-QdxjbqgwFQqRtNw); [recordings](https://github.com/r-hta/r-hta-workshop-2025)
-| Flip (to) the Script: Is It Time to Rethink Health Economic Modeling for HTAs? (issue panel) | ISPOR 2025, Montreal | 05/2025 | [slides](https://docs.google.com/presentation/d/1mSog0iXem8JMO9eXyRtyfN9bmM19qVgoNKw6OdBZI2I)
+| assertHE: an R package to improve quality assurance of models | iHEA 2025, Bali | 07/2025 |
+| Automating Health Economic Evaluation with R (+ genAI) | R-HTA 2025, Queen's University Belfast | 06/06/2025 | [slides](https://github.com/RobertASmith/talks/blob/master/RHTA_2025_Automating_HEE_with_R_genAI.pdf); [recordings](https://github.com/r-hta/r-hta-workshop-2025)
+| Flip (to) the Script: Is It Time to Rethink Health Economic Modeling for HTAs? (issue panel) | ISPOR 2025, Montreal | 05/2025 | [slides](https://github.com/RobertASmith/talks/blob/master/ISPOR_2025_Flip_the_Script.pdf)
 | R for the Rest of Us Podcast  | R 4 the Rest of Us | 14/01/2025 | [slides](https://github.com/RobertASmith/talks/blob/master/ParkrunResearchOverview.pdf)
 | Modelling the impact of new parkrun events: efficiency vs equity  | University of Chicago | 19/11/2024 | [slides](https://github.com/RobertASmith/talks/blob/master/UIC%20Parkrun%20Talk.pdf); [Video](https://www.courses.darkpeakanalytics.com/courses/public-talks)
 | Generative AI for Health Economic Evaluation  | iHEA | 14/10/2024 | [slides](https://github.com/RobertASmith/talks/blob/master/Generative%20AI%20for%20HEOR_%20Potential%2C%20Challenges%2C%20and%20Future%20Directions.pdf); [video](https://www.youtube.com/watch?v=WlwRfhHTEXY) 
