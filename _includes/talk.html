@@ -1,0 +1,30 @@
+{%- assign t = include.talk -%}
+{%- if t.date.size == 7 -%}
+  {%- assign when = t.date | append: "-01" | date: "%b %Y" -%}
+{%- else -%}
+  {%- assign when = t.date | date: "%-d %b %Y" -%}
+{%- endif -%}
+{%- assign tagstr = t.tags | join: ' ' -%}
+<article class="talk" data-tags="{{ t.tags | join: '|' | escape }}"
+  data-text="{{ t.title | append: ' ' | append: t.venue | append: ' ' | append: tagstr | downcase | escape }}">
+  <h3>{{ t.title }}</h3>
+  <p class="meta">{{ t.venue }} · <time datetime="{{ t.date }}">{{ when }}</time></p>
+  {%- if t.tags -%}
+  <ul class="tags">{% for tag in t.tags %}<li>{{ tag }}</li>{% endfor %}</ul>
+  {%- endif -%}
+  {%- if t.links -%}
+  <div class="actions">
+    {%- for l in t.links -%}
+      {%- if l.file -%}{%- assign href = l.file | prepend: '/' | relative_url -%}{%- else -%}{%- assign href = l.url -%}{%- endif -%}
+      {%- case l.type -%}
+        {%- when 'slides' -%}{%- assign label = 'Slides' -%}
+        {%- when 'video' -%}{%- assign label = 'Video' -%}
+        {%- when 'podcast' -%}{%- assign label = 'Podcast' -%}
+        {%- when 'recording' -%}{%- assign label = 'Recording' -%}
+        {%- else -%}{%- assign label = l.type | capitalize -%}
+      {%- endcase -%}
+      <a class="btn" href="{{ href }}"{% if l.type == 'video' %} data-video{% endif %}{% if l.url %} rel="noopener"{% endif %}>{{ label }}{% if l.file %} (PDF){% endif %}</a>
+    {%- endfor -%}
+  </div>
+  {%- endif -%}
+</article>

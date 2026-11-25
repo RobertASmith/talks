@@ -1,0 +1,35 @@
+---
+layout: default
+title: Talks
+permalink: /talks/
+description: Every public talk by Dr Robert Smith since 2020, with slides, recordings and podcasts.
+scripts:
+  - /assets/js/talks.js
+---
+{%- assign talks = site.data.talks -%}
+{%- assign all_tags = "" | split: "" -%}
+{%- for t in talks -%}{%- assign all_tags = all_tags | concat: t.tags -%}{%- endfor -%}
+{%- assign all_tags = all_tags | uniq | sort_natural -%}
+
+<h1>Talks</h1>
+<p class="muted">{{ talks | size }} talks, workshops and podcasts since 2020. Slides are PDFs; videos play on the page.
+For talks without links, contact <a href="mailto:rsmith@darkpeakanalytics.com">rsmith@darkpeakanalytics.com</a>.</p>
+
+<div class="controls">
+  <input id="q" class="search" type="search" aria-label="Search talks" placeholder="Search titles, venues and topics…" autocomplete="off">
+  <div class="chips" role="group" aria-label="Filter by topic">
+    {%- for tag in all_tags -%}
+    <button type="button" class="chip" data-tag="{{ tag | escape }}" aria-pressed="false">{{ tag }}</button>
+    {%- endfor -%}
+  </div>
+  <p class="count" id="count" aria-live="polite"></p>
+</div>
+
+{%- assign years = talks | group_by_exp: "t", "t.date | slice: 0, 4" -%}
+{%- for y in years -%}
+<section class="year" data-year="{{ y.name }}">
+  <h2>{{ y.name }}</h2>
+  {%- for t in y.items -%}{% include talk.html talk=t %}{%- endfor -%}
+</section>
+{%- endfor -%}
+<p class="empty" id="empty" hidden>No talks match. Try a different search or clear the filters.</p>

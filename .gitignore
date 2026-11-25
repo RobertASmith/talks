@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+vendor/
+.bundle/
+_site/
+.jekyll-cache/
