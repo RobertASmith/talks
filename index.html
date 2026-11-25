@@ -1,0 +1,99 @@
+---
+layout: default
+description: Dr Robert Smith is a health economist and data scientist, Chief Scientific Officer at Initiate and founder of Dark Peak Analytics.
+---
+{%- assign talks = site.data.talks -%}
+{%- assign videos = 0 -%}{%- assign slides = 0 -%}
+{%- for t in talks -%}{%- for l in t.links -%}
+  {%- if l.type == 'video' or l.type == 'podcast' or l.type == 'recording' -%}{%- assign videos = videos | plus: 1 -%}{%- endif -%}
+  {%- if l.type == 'slides' -%}{%- assign slides = slides | plus: 1 -%}{%- endif -%}
+{%- endfor -%}{%- endfor -%}
+
+<section class="hero">
+  <img src="{{ '/assets/img/robert-smith.jpg' | relative_url }}" alt="Dr Robert Smith" width="168" height="168">
+  <div>
+    <h1>Dr Robert Smith</h1>
+    <p class="roles">Health economist &amp; data scientist · Chief Scientific Officer, Initiate · Founder, Dark Peak Analytics · Co-director, R-HTA</p>
+    <ul class="pill-links">
+      <li><a href="{{ '/talks/' | relative_url }}">Talks &amp; slides</a></li>
+      <li><a href="{{ site.links.darkpeak }}">Dark Peak Analytics</a></li>
+      <li><a href="{{ site.links.rhta }}">R-HTA</a></li>
+      <li><a href="{{ site.links.scholar }}">Google Scholar</a></li>
+      <li><a href="{{ site.links.github }}">GitHub</a></li>
+      <li><a href="{{ site.links.linkedin }}">LinkedIn</a></li>
+    </ul>
+  </div>
+</section>
+
+<div class="stats">
+  <div class="stat"><b>{{ talks | size }}</b><span>talks since 2020</span></div>
+  <div class="stat"><b>{{ slides }}</b><span>slide decks to download</span></div>
+  <div class="stat"><b>{{ videos }}</b><span>recordings &amp; podcasts</span></div>
+  <div class="stat"><b>20+</b><span>peer-reviewed papers</span></div>
+</div>
+
+<h2>About</h2>
+<div class="prose">
+  <p>Robert Smith is a health economist and data scientist based in Sheffield, UK. His work applies methods from data
+  science, including R, Shiny, automation and AI, to make health economic models more transparent, reproducible and
+  useful for decision makers.</p>
+
+  <p>He is Chief Scientific Officer at <a href="https://www.initiateconsultancy.com/">Initiate</a>, where he leads
+  scientific strategy and the group's health economics, data science and AI capabilities. In 2019 he co-founded
+  <a href="{{ site.links.darkpeak }}">Dark Peak Analytics</a> with Dr Paul Schneider, and grew it into a team of health
+  economists, statisticians and software developers before it joined Initiate in 2026. Dark Peak has delivered more
+  than 100 projects for over 50 clients, including the World Health Organization and many of the world's largest
+  pharmaceutical companies. It also builds software, including a
+  <a href="https://seeplatform.co.uk/">Structured Expert Elicitation Platform</a> used to support submissions to NICE
+  and other HTA bodies, early economic modelling and survival analysis platforms, and geospatial access models.
+  He developed and maintains <a href="https://github.com/dark-peak-analytics/assertHE">assertHE</a>, an R package on
+  CRAN for quality assurance of health economic models, and leads Dark Peak's
+  <a href="{{ site.links.courses }}">online short courses</a> in R for health economics, which have enrolled more than
+  1,000 participants worldwide.</p>
+
+  <p>Robert is a Wellcome Trust-funded Research Fellow at the Sheffield Centre for Health and Related Research (SCHARR),
+  University of Sheffield, where he works on Living HTA and transparent, reproducible models, and co-director of the
+  <a href="{{ site.links.rhta }}">R for HTA consortium</a>. From 2018 to 2024 he was an expert advisor to the
+  World Health Organization's Health Economic Assessment Tool (HEAT) for walking and cycling.</p>
+
+  <p>During the COVID-19 pandemic he was Lead Epidemiologist and Statistical Programmer at the Joint Biosecurity
+  Centre, part of the UK Health Security Agency. There he built an infectious disease model with an interactive
+  interface that was used across government, including by the Department of Health and Social Care, Number 10, the
+  Cabinet Office and the Office for Budget Responsibility. Before that he was Principal Health Economist at Lumanity
+  (formerly BresMed), where he led internal R training and built R Shiny models for pharmaceutical clients.</p>
+
+  <p>He holds a PhD in Public Health, Economics and Decision Science from SCHARR, funded through the Wellcome Trust
+  doctoral programme, on improving the validity and usability of decision models, with a focus on physical activity
+  and parkrun. He also holds a BA and an MSc in Economics from the University of Nottingham. His research has been
+  published in journals including <i>The Lancet Global Health</i>, <i>PharmacoEconomics</i>, <i>Epidemics</i>,
+  <i>Medical Decision Making</i>, <i>Health Economics</i> and <i>Wellcome Open Research</i>.</p>
+</div>
+
+<h2>Recent talks</h2>
+<ul class="timeline-list">
+  {%- for t in talks limit: 6 -%}
+  {%- if t.date.size == 7 -%}{%- assign when = t.date | append: "-01" | date: "%b %Y" -%}{%- else -%}{%- assign when = t.date | date: "%-d %b %Y" -%}{%- endif -%}
+  <li><span class="when">{{ when }}</span><span><b>{{ t.title }}</b><br><span class="muted">{{ t.venue }}</span></span></li>
+  {%- endfor -%}
+</ul>
+<p><a href="{{ '/talks/' | relative_url }}">See all {{ talks | size }} talks, with slides and videos →</a></p>
+
+<h2>Selected publications</h2>
+<ol class="pubs">
+  <li>Smith RA, Samyshkin Y, Mohammed W, et al. assertHE: an R package to improve quality assurance of HTA models.
+    <i>Wellcome Open Research</i> 2024; 9:701. <a href="https://doi.org/10.12688/wellcomeopenres.23180.1">doi:10.12688/wellcomeopenres.23180.1</a></li>
+  <li>Smith R, Mohammed W, Schneider P. Packaging cost-effectiveness models in R: a tutorial.
+    <i>Wellcome Open Research</i> 2023; 8:419. <a href="https://doi.org/10.12688/wellcomeopenres.19656.1">doi:10.12688/wellcomeopenres.19656.1</a></li>
+  <li>Thokala P, Srivastava T, Smith R, et al. Living health technology assessment: issues, challenges and opportunities.
+    <i>PharmacoEconomics</i> 2023; 41(3):227.</li>
+  <li>Smith RA, Schneider PP, Mohammed W. Living HTA: automating health economic evaluation with R.
+    <i>Wellcome Open Research</i> 2022; 7:194. <a href="https://doi.org/10.12688/wellcomeopenres.17933.2">doi:10.12688/wellcomeopenres.17933.2</a></li>
+  <li>Tordrup D, Smith R, Kamenov K, et al. Global return on investment and cost-effectiveness of WHO's HEAR
+    interventions for hearing loss: a modelling study. <i>The Lancet Global Health</i> 2022; 10(1):e52–e62.</li>
+  <li>Smith RA, Schneider PP, Cosulich R, et al. Socioeconomic inequalities in distance to and participation in a
+    community-based running and walking activity: a longitudinal ecological study of parkrun 2010 to 2019.
+    <i>Health &amp; Place</i> 2021; 71:102626.</li>
+  <li>Smith R, Schneider P. Making health economic models Shiny: a tutorial.
+    <i>Wellcome Open Research</i> 2020; 5:69. <a href="https://doi.org/10.12688/wellcomeopenres.15807.2">doi:10.12688/wellcomeopenres.15807.2</a></li>
+</ol>
+<p>Full list on <a href="{{ site.links.scholar }}">Google Scholar</a>.</p>

@@ -1,8 +1,27 @@
+title: Dr Robert Smith
+description: >-
+  Health economist and data scientist. Talks, slides and recordings on R, Shiny,
+  automation, AI and structured expert elicitation for health economic evaluation.
+author: Dr Robert Smith
+url: "https://robertasmith.github.io"
+baseurl: "/talks"
+
+repository: RobertASmith/talks
+
+links:
+  github: https://github.com/RobertASmith
+  scholar: https://scholar.google.com/citations?hl=en&user=NhQ7bK8AAAAJ
+  linkedin: https://www.linkedin.com/in/robert-smith-53b28438
+  darkpeak: https://darkpeakanalytics.com/
+  rhta: https://r-hta.org/
+  courses: https://www.courses.darkpeakanalytics.com/
+
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
+
 include:
   - CONTRIBUTING.md
   - README.md
@@ -12,3 +31,13 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+
+exclude:
+  - scripts
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle
+  - talks.Rproj
+  - google_scholar_profiles.R
+  - .Rproj.user

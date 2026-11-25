@@ -1,0 +1,510 @@
+- title: 'Git-ing Together: How to use GitHub to collaborate internally and externally'
+  venue: SMDM Open-Source Modeling SIG webinar
+  date: '2026-11-24'
+  tags:
+  - Version control
+  - Open research
+  links:
+  - type: slides
+    file: SMDM_SIG_2026_Gitting_Together.pdf
+- title: 'Unlocking Efficiency in HEOR: Automated Reporting and AI Integration (workshop with Carina Behr & Robert Hettle)'
+  venue: ISPOR South Africa Chapter Conference 2026
+  date: '2026-10-20'
+  tags:
+  - AI
+  - Automation
+  - Teaching
+  links:
+  - type: recording
+    url: https://www.isporsa.co.za/#/annual-conference
+- title: Improving the evidence-base for Health Economic Models with Structured Expert Elicitation (with Lucy Watson)
+  venue: Young-NVTAG webinar
+  date: '2026-09-16'
+  tags:
+  - SEE
+  links:
+  - type: slides
+    file: Young_NVTAG_2026_Structured_Expert_Elicitation.pdf
+- title: 'Structuring Uncertainty: Why Expert Elicitation is the Key to Robust HEOR Models (with Lucy Watson)'
+  venue: Chronic Diseases and Medical Decision-Making Workshop, University of Chicago
+  date: '2026-09-16'
+  tags:
+  - SEE
+  links:
+  - type: slides
+    file: UChicago_2026_Structured_Expert_Elicitation.pdf
+- title: 'Improving the transparency and usability of health economic models ("Criação de Valor: Perspectiva Europeia nas Tomadas de Decisão em Saúde")'
+  venue: NATS-HIAE webinar, Hospital Israelita Albert Einstein, Brazil
+  date: '2026-08-27'
+  tags:
+  - Open research
+  links:
+  - type: slides
+    file: NATS-HIAE_2026_Transparency_Usability_HE_Models.pdf
+- title: 'assertHE: an R package to improve quality assurance of models'
+  venue: EuHEA 2026, Rotterdam
+  date: '2026-07-17'
+  tags:
+  - R
+  - R packages
+  links:
+  - type: slides
+    file: assertHE_EuHEA_2026.pdf
+- title: R Packages as the New Standard for Health Economic Evaluation
+  venue: EuHEA 2026, Rotterdam
+  date: '2026-07-16'
+  tags:
+  - R
+  - R packages
+  links:
+  - type: slides
+    file: R_Packages_EuHEA_2026.pdf
+- title: An Introduction to Open-Source Modelling and Version Control for Decision Modelling (short course with Eline Krijkamp, Wael Mohammed, Ron Handels & Xavier Pouwels)
+  venue: SMDM 2026, Oslo
+  date: '2026-06-28'
+  tags:
+  - Version control
+  - Open research
+  - Teaching
+- title: Building & Scaling Custom HEOR Modelling Software within Industry (with Yevgeniy Samyshkin, GSK)
+  venue: R-HTA 2026 Online
+  date: '2026-06-24'
+  links:
+  - type: slides
+    file: RHTA_2026_Building_Scaling_HEOR_Software_GSK.pdf
+  - type: video
+    url: https://youtu.be/v_bBgeigws8
+  tags:
+  - Shiny
+  - R packages
+- title: Where R we, and where R we going? Results of the R-HTA Expert Elicitation Survey
+  venue: R-HTA 2026 Online
+  date: '2026-06-23'
+  tags:
+  - R
+  - SEE
+  links:
+  - type: slides
+    file: RHTA_2026_Expert_Elicitation_Survey_Results.pdf
+  - type: video
+    url: https://youtu.be/NxHjW7FlrFE
+- title: Improving the evidence-base for Health Economic Models with Structured Expert Elicitation (with Lucy Watson)
+  venue: Delft University of Technology webinar
+  date: '2026-06-09'
+  tags:
+  - SEE
+  links:
+  - type: slides
+    file: Delft_2026_Structured_Expert_Elicitation.pdf
+- title: Improving the evidence-base for Health Economic Models with Structured Expert Elicitation (with Lucy Watson)
+  venue: Modelling Advisory Group (MAG), SCHARR, University of Sheffield
+  date: '2026-03-25'
+  tags:
+  - SEE
+  links:
+  - type: slides
+    file: ScHARR_MAG_2026-03-25_Structured_Expert_Elicitation.pdf
+- title: Improving the evidence-base for Health Economic Models with Structured Expert Elicitation (workshop with Lucy Watson)
+  venue: SCHARR, University of Sheffield
+  date: '2026-03-10'
+  tags:
+  - SEE
+  - Teaching
+  links:
+  - type: slides
+    file: ScHARR_2026-03-10_Structured_Expert_Elicitation.pdf
+- title: 'Making Health Economic Models Shiny: Our experience helping companies transition from Excel to R & Shiny'
+  venue: R Consortium
+  date: '2025-11-18'
+  tags:
+  - R
+  - Shiny
+  links:
+  - type: slides
+    url: https://r-consortium.org/webinars/Making-Health-Economic-Models-Shiny.pdf
+  - type: video
+    url: https://www.youtube.com/watch?v=GUf9pzpuX6k
+- title: Transparent Health Economic Models with R & Shiny
+  venue: SMDM Open Source Models SIG
+  date: '2025-10-23'
+  tags:
+  - R
+  - Shiny
+  - Open research
+- title: 'Geospatial care closer to home: modelling of NHS infrastructure (guest talk with Oliver Dolin)'
+  venue: ScHARR, University of Sheffield
+  date: '2025-10-22'
+  tags:
+  - Geospatial
+  links:
+  - type: slides
+    file: ScHARR_2025_Geospatial_Care_Closer_to_Home.pdf
+- title: 'assertHE: an R package to improve quality assurance of models'
+  venue: iHEA 2025, Bali
+  date: 2025-07
+  tags:
+  - R
+  - R packages
+- title: Automating Health Economic Evaluation with R (+ genAI)
+  venue: R-HTA 2025, Queen's University Belfast
+  date: '2025-06-06'
+  tags:
+  - R
+  - AI
+  - Automation
+  links:
+  - type: slides
+    file: RHTA_2025_Automating_HEE_with_R_genAI.pdf
+  - type: workshop materials
+    url: https://github.com/r-hta/r-hta-workshop-2025
+- title: 'Flip (to) the Script: Is It Time to Rethink Health Economic Modeling for HTAs? (issue panel)'
+  venue: ISPOR 2025, Montreal
+  date: 2025-05
+  links:
+  - type: slides
+    file: ISPOR_2025_Flip_the_Script.pdf
+  tags:
+  - Automation
+- title: R for the Rest of Us Podcast
+  venue: R 4 the Rest of Us
+  date: '2025-01-14'
+  links:
+  - type: slides
+    file: ParkrunResearchOverview.pdf
+  - type: podcast
+    url: https://rfortherestofus.com/2025/03/podcast-episode-25
+  tags:
+  - R
+  - parkrun
+  - Physical activity
+- title: 'Modelling the impact of new parkrun events: efficiency vs equity'
+  venue: University of Chicago
+  date: '2024-11-19'
+  tags:
+  - parkrun
+  - Physical activity
+  links:
+  - type: slides
+    file: UIC Parkrun Talk.pdf
+  - type: video
+    url: https://www.courses.darkpeakanalytics.com/courses/public-talks
+- title: Generative AI for Health Economic Evaluation
+  venue: iHEA
+  date: '2024-10-14'
+  tags:
+  - AI
+  links:
+  - type: slides
+    file: IHEA Oct24.pdf
+  - type: video
+    url: https://www.youtube.com/watch?v=WlwRfhHTEXY
+- title: Improving the transparency and usability of health economic models
+  venue: HERC, University of Oxford
+  date: '2024-07-04'
+  tags:
+  - Open research
+  links:
+  - type: slides
+    file: Oxford Uni 04-07-2024.pdf
+  - type: video
+    url: https://youtu.be/4kLPjIZ4xIs
+- title: 'Generative AI for HEOR: Potential, Challenges, and Future Directions'
+  venue: R-HTA 24 Online
+  date: '2024-07-02'
+  tags:
+  - AI
+  links:
+  - type: slides
+    file: Generative AI for HEOR_ Potential, Challenges, and Future Directions.pdf
+  - type: video
+    url: https://youtu.be/qe6h8j6XiRo
+- title: 'assertHE: R model reviewer'
+  venue: R-HTA 24 Sheffield
+  date: '2024-06-28'
+  tags:
+  - R
+  - R packages
+  links:
+  - type: slides
+    file: RHTA24-assertHE (1).pdf
+  - type: video
+    url: https://www.youtube.com/watch?v=wr8-w-6QGno
+- title: 'assertHE: HTA R model review'
+  venue: DSMC Meeting, Erasmus MC
+  date: '2024-05-29'
+  tags:
+  - R
+  - R packages
+  links:
+  - type: slides
+    file: assertHE_ErasmusMC_290524.pdf
+- title: Automating health economic evaluation with R
+  venue: Sheffield R Users, Sheffield, UK
+  date: '2024-01-18'
+  tags:
+  - R
+  - Automation
+  links:
+  - type: slides
+    file: Automating HTA with R.pdf
+- title: Introduction to R
+  venue: School of Medicine and Population Health, University of Sheffield
+  date: '2023-09-29'
+  links:
+  - type: website
+    url: https://darkpeakanalytics.com/
+  tags:
+  - R
+  - Teaching
+- title: R shiny for health economic evaluation
+  venue: PenTAG
+  date: '2023-09-27'
+  tags:
+  - R
+  - Shiny
+  links:
+  - type: website
+    url: https://darkpeakanalytics.com/
+- title: GitHub for Academic Collaboration
+  venue: OPENfest University of Sheffield
+  date: '2023-09-04'
+  tags:
+  - Version control
+  links:
+  - type: slides
+    file: GitHub for academic collaboration UoS.pdf
+- title: 'A Random Walk Down West Street: Projects & Placements'
+  venue: ScHARR Summer School
+  date: '2023-08-14'
+  links:
+  - type: slides
+    file: ScHARR Summer School Talk.pdf
+  tags:
+  - Teaching
+- title: 'Methods for data science to make health economic models more usable: user and application programming interfaces'
+  venue: Wellcome Trust PhD programme
+  date: '2023-06-21'
+  tags:
+  - Open research
+  links:
+  - type: slides
+    file: Wellcome Student Talk.pdf
+- title: 'R Packages for health economic evaluation: A tutorial'
+  venue: R-HTA
+  date: '2023-06-09'
+  tags:
+  - R
+  - R packages
+  links:
+  - type: slides
+    file: R Packages for health economic evaluation_ A tutorial.pdf
+  - type: video
+    url: https://www.youtube.com/watch?v=YzRAuRXJ04k
+- title: Advances in Health Economics & Data Science
+  venue: Lumanity
+  date: '2023-05-31'
+  links:
+  - type: slides
+    file: Lumanity_230531.pdf
+  tags:
+  - Automation
+- title: Living Health Economic Evaluation (with R)
+  venue: NICE Technical Forum
+  date: '2023-05-16'
+  tags:
+  - R
+  - Automation
+  links:
+  - type: slides
+    file: NICE_Living_HTA_R.pdf
+- title: Advances at the intersection of health economics & data science
+  venue: R-LMIC Workshop University College London
+  date: '2023-01-20'
+  links:
+  - type: slides
+    file: RLMIC_230120.pdf
+  tags:
+  - Automation
+  - Teaching
+- title: Version Control in RStudio
+  venue: University of Exeter PENTAG
+  date: '2023-01-03'
+  tags:
+  - R
+  - Version control
+  links:
+  - type: slides
+    file: PENTAG_GitHubHE_230103.pdf
+- title: Automating Health Economic Evaluation with plumber and GitHub Actions
+  venue: EARL - Tower Hotel London
+  date: '2022-09-07'
+  tags:
+  - R
+  - Automation
+  - Version control
+  links:
+  - type: slides
+    file: Automating HTA with R - EARL_London_Aug22.pdf
+  - type: video
+    url: https://videos.ctfassets.net/k26sw1bgepr3/XJB3NcW4QvS0SJWvmYunx/8b1d2e066dd5d64fa39a86477764ba18/EARL2022-Stream_1_Robert_Smith.mp4
+- title: parkrun analytics
+  venue: University College London
+  date: '2022-06-21'
+  tags:
+  - parkrun
+  - Physical activity
+  links:
+  - type: slides
+    file: parkrunUCLstudents.pdf
+- title: 'Living HTA: Automating HTA with R'
+  venue: R-HTA Conference
+  date: '2022-05-21'
+  tags:
+  - R
+  - Automation
+  links:
+  - type: slides
+    file: Living HTA May22.pdf
+  - type: video
+    url: https://www.youtube.com/watch?v=hqQV9jdCRyg
+- title: 'Living HTA: Automating HTA with plumber'
+  venue: ScHARR Guest Lecture
+  date: '2022-05-18'
+  tags:
+  - R
+  - Automation
+  - Teaching
+  links:
+  - type: slides
+    file: Living HTA May22.pdf
+- title: The potential of RShiny User Interfaces to Support Health Economic Decision Making
+  venue: R-HTA LMIC Conference
+  date: '2022-02-23'
+  tags:
+  - R
+  - Shiny
+  links:
+  - type: slides
+    file: R-HTA LMIC Conference RS 230222.pdf
+- title: Making Erasmus MC Shiny
+  venue: Erasmus MC
+  date: '2022-02-01'
+  tags:
+  - R
+  - Shiny
+  links:
+  - type: slides
+    file: Making Erasmus MC Shiny.pdf
+- title: 'Rise and Shiny: A new dawn for HTA'
+  venue: R-HTA conference
+  date: '2021-07-01'
+  tags:
+  - R
+  - Shiny
+  links:
+  - type: slides
+    file: Rise and Shiny, a new dawn for HTA.pdf
+- title: The University of Sheffield Open Research Award 2021
+  venue: University of Sheffield
+  date: '2021-10-25'
+  tags:
+  - Open research
+  links:
+  - type: slides
+    file: Open Research Award.pptx.pdf
+- title: 'The greatest possible impact: The Wellcome Trust and open research'
+  venue: University of Sheffield
+  date: '2021-06-25'
+  tags:
+  - Open research
+- title: 'The greatest possible impact: The Wellcome Trust and open research'
+  venue: University of Leeds
+  date: '2021-06-17'
+  tags:
+  - Open research
+  links:
+  - type: slides
+    file: Open Research Wellcome Trust Leeds 2021.pdf
+- title: Valuing premature deaths averted vs life years saved in the WHO HEAT
+  venue: World Health Organization HEAT Expert Advisory Group
+  date: '2021-03-10'
+  tags:
+  - Physical activity
+- title: 'Wellcome blog. Ready to run: Community participation in parkrun. Blog here'
+  venue: Wellcome
+  date: '2020-11-20'
+  tags:
+  - Open research
+  - parkrun
+  - Physical activity
+  links:
+  - type: slides
+    url: https://blog.wellcomeopenresearch.org/2020/11/20/ready-to-run-community-participation-in-parkrun-in-england/
+- title: Making Health Economics Shiny
+  venue: NHS-R conference
+  date: '2020-11-11'
+  tags:
+  - R
+  - Shiny
+  links:
+  - type: slides
+    file: NHS-R Presentation.pdf
+  - type: video
+    url: https://www.youtube.com/watch?v=Pl66-h5UXgI
+- title: Open Research with the Wellcome Trust
+  venue: Sheffield University Library
+  date: '2020-10-20'
+  tags:
+  - Open research
+  links:
+  - type: slides
+    file: Open Research Wellcome Trust.pdf
+- title: parkrun research collaboration (24:00 - 40:00)
+  venue: '''Free Weekly Timed'' podcast'
+  date: '2020-08-27'
+  tags:
+  - parkrun
+  - Physical activity
+  links:
+  - type: blog
+    url: https://blog.wellcomeopenresearch.org/2020/11/20/ready-to-run-community-participation-in-parkrun-in-england/
+  - type: podcast
+    url: https://withmenow.libsyn.com/wiout-yarkshire-accents-now-jogs-fogs-and-hearing-dogs
+- title: ScHARR, University of Sheffield
+  venue: ScHARR, University of Sheffield
+  date: '2020-08-10'
+  links:
+  - type: app
+    url: https://r4scharr.shinyapps.io/intro/#section-session1
+  tags:
+  - Teaching
+  - Shiny
+- title: Use of R for Health Research
+  venue: R-HTA University College London
+  date: '2020-06-26'
+  links:
+  - type: website
+    url: https://r-hta.org/tutorial/markov_models_shiny/
+  tags:
+  - R
+  - Teaching
+  - Shiny
+- title: Making Health Economic Evaluation Models Shiny (workshop)
+  venue: University of Sheffield
+  date: '2020-02-28'
+  tags:
+  - R
+  - Shiny
+  - Teaching
+  links:
+  - type: slides
+    file: RShiny for Health Economics ScHARR Feb20.pdf
+- title: R for decision science
+  venue: Sheffield
+  date: '2020-02-04'
+  links:
+  - type: slides
+    file: Decision Science RSheffield.pdf
+  tags:
+  - R
+  - Shiny
